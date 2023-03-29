@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1680083068 source:c:\users\bogdan\sisteme prelucrare grafica\lab5\main.cpp
+	<GL/freeglut.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<iostream>
+
